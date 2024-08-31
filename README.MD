@@ -38,3 +38,5 @@ Use REA to update the field.
 | Total Length                | TL       | https://payazed.wordpress.com/2015/06/02/tl/                      |
 | PLDiet                      | PLD      | https://www.cadforum.cz/en/download.asp?fileID=3078               |
 | Block Counter               | BLKCOUNT | https://www.lee-mac.com/blockcounter.html                         |
+| Join Line                   | JL       | https://payazed.wordpress.com/2015/06/02/jl/                      |
+| Block Legend                | BLEGEND  | https://www.cadforum.cz/en/download.asp?fileID=928                |
