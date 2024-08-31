@@ -53,10 +53,14 @@ Use REA to update the field.
 
 # Lisps
 
-| Name              | Website                                                                                  |
-|-------------------|------------------------------------------------------------------------------------------|
-| Kims Projects     | https://www.kimprojects.com/free-lisp-programs/                                          |
-| CADViet Forum     | https://www.cadviet.com/forum/index.php?app=forums&module=forums&controller=forums&id=50 |
-| Jeffery P Sanders | https://jefferypsanders.com/autolisp.html                                                |
-| AfraLisp          | https://www.afralisp.net/autolisp/                                                       |
-| Lee Mac           | https://www.lee-mac.com/programs.html                                                    |
+| Name                 | Website                                                                                  |
+|----------------------|------------------------------------------------------------------------------------------|
+| Kims Projects        | https://www.kimprojects.com/free-lisp-programs/                                          |
+| CADViet Forum        | https://www.cadviet.com/forum/index.php?app=forums&module=forums&controller=forums&id=50 |
+| Jeffery P Sanders    | https://jefferypsanders.com/autolisp.html                                                |
+| AfraLisp             | https://www.afralisp.net/autolisp/                                                       |
+| Lee Mac              | https://www.lee-mac.com/programs.html                                                    |
+| Russian              | https://forum.dwg.ru/                                                                    |
+| The Swamp            | https://www.theswamp.org/                                                                |
+| ChatGPT AutoLisp Ace | https://chatgpt.com/g/g-Zt0xFNpOH-autolisp-ace                                           |
+| Cadalyst             | https://cadtips.cadalyst.com/    
