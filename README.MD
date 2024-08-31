@@ -1,4 +1,4 @@
-Lisps created with the help of ChatGPT with tweaks when it didn't work quite right.
+# Lisps created with the help of ChatGPT with tweaks when it didn't work quite right.
 
 ## PolyLine Table - PLT
 
@@ -11,7 +11,7 @@ Copies selected layer/s with prompt for prefix.
 ![alt text](images/image-3.png)
 ## Copy Layer with Suffix - CLSX
 
-Copies selected layer/s with prompt for suffix.
+Copies selected layer/s with prompt for suffix.  As above.
 
 ## Total Polyline Length Text - LTX
 
@@ -26,3 +26,11 @@ Create a field with total count of selected block.
 Use REA to update the field.
 
 ![alt text](images/image-5.png)
+
+# Lisps used in custom toolbar
+
+| Name                    | Command | Source                                              |   |   |
+|-------------------------|---------|-----------------------------------------------------|---|---|
+| Rotate Multiple Objects | RMO     | https://www.cadforum.cz/en/download.asp?fileID=3577 |   |   |
+|                         |         |                                                     |   |   |
+|                         |         |                                                     |   |   |
