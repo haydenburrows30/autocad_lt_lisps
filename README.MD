@@ -8,6 +8,7 @@ Inserts list of layers that have polylines and their lengths.
 
 Copies selected layer/s with prompt for prefix.
 ![alt text](image-2.png)
+![alt text](image-3.png)
 ## Copy Layer with Suffix - CLSX
 
 Copies selected layer/s with prompt for suffix.
