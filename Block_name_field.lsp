@@ -25,7 +25,8 @@
       (vla-put-Height mTextObj 1.0) ; Set the text height
       
       ;; Success message
-      (princ "\nField referencing the selected block inserted successfully.")
+      (princ (strcat "\nField referencing block name " blkname " inserted successfully."))
+
     )
     (princ "\nPlease select a valid block.")
   )
