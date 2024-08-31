@@ -1,5 +1,13 @@
 # Lisps created with the help of ChatGPT with tweaks when it didn't work quite right.
 
+| Name                       | Command |
+|----------------------------|---------|
+| PolyLine Table             | PLT     |
+| Copy Layer with Prefix     | CLPX    |
+| Copy Layer with Suffix     | CLSX    |
+| Total Polyline Length Text | LTX     |
+| Block Field Count          | BFC     |
+
 ## PolyLine Table - PLT
 
 Inserts list of layers that have polylines and their lengths.
