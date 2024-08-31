@@ -67,4 +67,10 @@ Use REA to update the field.
 
 # Other Sources
 
-https://t.me/autocadcivillisp
+## Telegram
+
+| Name                  | Telegram                        |
+|-----------------------|---------------------------------|
+| AutoCAD Civil 3D Lisp | https://t.me/autocadcivil3dlisp |
+| Yazan Hayani          | https://t.me/yazanhayani        |
+| PTS CAD Expert        | https://t.me/ptscadexpert       |
