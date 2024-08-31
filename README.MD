@@ -29,9 +29,12 @@ Use REA to update the field.
 
 # Lisps used in custom toolbar
 
-| Name                        | Command | Source                                                            |
-|-----------------------------|---------|-------------------------------------------------------------------|
-| Rotate Multiple Objects     | RMO     | https://www.cadforum.cz/en/download.asp?fileID=3577               |
-| Text 2 Mtext                | T2M     | https://www.lee-mac.com/text2mtext.html                           |
-| Incremental Numbering Suite | NUMINC  | https://www.lee-mac.com/numinc.html                               |
-| EP_WIRE_V14-1.VLX           | EP_WIRE | https://sreekanthkadungil.blogspot.com/2024/03/photo-gallery.html |
+| Name                        | Command  | Source                                                            |
+|-----------------------------|----------|-------------------------------------------------------------------|
+| Rotate Multiple Objects     | RMO      | https://www.cadforum.cz/en/download.asp?fileID=3577               |
+| Text 2 Mtext                | T2M      | https://www.lee-mac.com/text2mtext.html                           |
+| Incremental Numbering Suite | NUMINC   | https://www.lee-mac.com/numinc.html                               |
+| EP_WIRE_V14-1.VLX           | EP_WIRE  | https://sreekanthkadungil.blogspot.com/2024/03/photo-gallery.html |
+| Total Length                | TL       | https://payazed.wordpress.com/2015/06/02/tl/                      |
+| PLDiet                      | PLD      | https://www.cadforum.cz/en/download.asp?fileID=3078               |
+| Block Counter               | BLKCOUNT | https://www.lee-mac.com/blockcounter.html                         |
