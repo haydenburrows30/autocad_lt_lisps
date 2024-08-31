@@ -1,4 +1,6 @@
-# Lisps created with the help of ChatGPT with tweaks when it didn't work quite right.
+# Lisps Original
+
+Created with the help of ChatGPT with tweaks when it didn't work quite right.
 
 | Name                       | Command |
 |----------------------------|---------|
