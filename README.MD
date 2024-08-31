@@ -50,3 +50,13 @@ Use REA to update the field.
 | Block Counter               | BLKCOUNT | https://www.lee-mac.com/blockcounter.html                         |
 | Join Line                   | JL       | https://payazed.wordpress.com/2015/06/02/jl/                      |
 | Block Legend                | BLEGEND  | https://www.cadforum.cz/en/download.asp?fileID=928                |
+
+# Lisps
+
+| Name              | Website                                                                                  |
+|-------------------|------------------------------------------------------------------------------------------|
+| Kims Projects     | https://www.kimprojects.com/free-lisp-programs/                                          |
+| CADViet Forum     | https://www.cadviet.com/forum/index.php?app=forums&module=forums&controller=forums&id=50 |
+| Jeffery P Sanders | https://jefferypsanders.com/autolisp.html                                                |
+| AfraLisp          | https://www.afralisp.net/autolisp/                                                       |
+| Lee Mac           | https://www.lee-mac.com/programs.html                                                    |
