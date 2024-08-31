@@ -20,7 +20,9 @@ The dwgunits is selected and added to the suffix.
 This wil be printed in the command line, but the text defaults to meters.
 ![alt text](images/image-4.png)
 
-## Block Name Field
+## Block Field Count - BFC
 
 Create a field with total count of selected block.
 Use REA to update the field.
+
+![alt text](images/image-5.png)

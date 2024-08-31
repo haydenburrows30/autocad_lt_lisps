@@ -1,4 +1,4 @@
-(defun c:InsertBlockWithAcCountField ( / blkName insPt blkEnt blkObj mTextObj fieldExpr)
+(defun c:BFC ( / blkName insPt blkEnt blkObj mTextObj fieldExpr)
   ;; Prompt user to select a block
   (setq blkEnt (car (entsel "\nSelect a block: ")))
 
