@@ -64,3 +64,7 @@ Use REA to update the field.
 | The Swamp            | https://www.theswamp.org/                                                                |
 | ChatGPT AutoLisp Ace | https://chatgpt.com/g/g-Zt0xFNpOH-autolisp-ace                                           |
 | Cadalyst             | https://cadtips.cadalyst.com/    
+
+# Other Sources
+
+https://t.me/autocadcivillisp
