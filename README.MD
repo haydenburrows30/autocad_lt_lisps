@@ -16,6 +16,9 @@ Copies selected layer/s with prompt for suffix.
 ## Total Polyline Length Text - LTX
 
 Select polylines to measure and the total length will be displayed in a text object.
+The dwgunits is selected and added to the suffix.
+This wil be printed in the command line, but the text defaults to meters.
+![alt text](images/image-4.png)
 
 ## Block Name Field
 

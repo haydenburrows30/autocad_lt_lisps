@@ -17,19 +17,18 @@
       )
 
       ;; Retrieve the units setting
-      ;; (setq units (atof (GET_DWGUNITS))) ;; call function and convert string to integer
-      ;; (princ units)
-      ;; (setq unitsStr (cond
-      ;;                  ((= units 1) "Inches")
-      ;;                  ((= units 2) "Feet")
-      ;;                  ((= units 3) "Millimeters")
-      ;;                  ((= units 4) "Centimeters")
-      ;;                  ((= units 5) "Decimeters")
-      ;;                  ((= units 6) "Meters")
-      ;;                  (t "Units"))) ;; Default if unit type is unknown
+      (setq units (atof (GET_DWGUNITS))) ;; call function and convert string to integer
+      (setq unitsStr (cond
+                       ((= units 1) "Inches")
+                       ((= units 2) "Feet")
+                       ((= units 3) "mm")
+                       ((= units 4) "cm")
+                       ((= units 5) "Decimeters")
+                       ((= units 6) "m")
+                       (t "Units"))) ;; Default if unit type is unknown
 
       ;; Create the total length string including units
-      (setq totalLengthStr (strcat "Total Length: " (rtos totalLength 2 2) "m")) ;;unitsStr
+      (setq totalLengthStr (strcat "Total Length: " (rtos totalLength 2 2) unitsStr))
       (setq totalLengthm (strcat (rtos totalLength 2 2) "m")) ;;unitsStr
       (princ (strcat "\n" totalLengthStr))
       
@@ -54,6 +53,8 @@
   )
   (princ)
 )
+
+;;https://autolisps.blogspot.com/p/getdwgunits.html
 
 
 ;;; =================================================
