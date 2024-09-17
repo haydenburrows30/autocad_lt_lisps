@@ -63,6 +63,11 @@ Use REA to update the field.
 | Block Counter               | BLKCOUNT | https://www.lee-mac.com/blockcounter.html                         |
 | Join Line                   | JL       | https://payazed.wordpress.com/2015/06/02/jl/                      |
 | Block Legend                | BLEGEND  | https://www.cadforum.cz/en/download.asp?fileID=928                |
+| Table Sort                  | TABLESORT|                                                                   |
+| Select Similar              | SELS     | www.cadforum.cz                                                   |
+| Incremental Numbering Suite | NUMINC   | https://www.lee-mac.com/                                          |
+| Cable Schedule              | CABLE    | https://forum.dwg.ru/showthread.php?t=138086&page=1               |
+
 
 # Lisp Sources
 
@@ -78,7 +83,7 @@ Use REA to update the field.
 | Russian              | https://forum.dwg.ru/                                                                    |
 | The Swamp            | https://www.theswamp.org/                                                                |
 | ChatGPT AutoLisp Ace | https://chatgpt.com/g/g-Zt0xFNpOH-autolisp-ace                                           |
-| Cadalyst             | https://cadtips.cadalyst.com/    
+| Cadalyst             | https://cadtips.cadalyst.com/                                                            |
 
 ## Telegram
 
